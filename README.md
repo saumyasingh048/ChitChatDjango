@@ -6,6 +6,7 @@ This is a Chat App made using Django and Python. It supports various functionali
 2) Extract the files, and open the main folder using VS Code.
 3) Open a new terminal.
 4) Change Directory using cd command, and get inside djangochat,using the following: **cd djangochat**
+</br>
 Take reference from the following screenshot, as of what the actual path needs to look like:
 <img width="564" alt="image" src="https://user-images.githubusercontent.com/56543617/194283714-e650ec44-6ec1-4db7-b28b-0097924455c7.png">
 
