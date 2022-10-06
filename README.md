@@ -12,9 +12,9 @@ This is a Chat App made using Django and Python. It supports various functionali
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/56543617/194279828-bddefa91-049f-4882-9c87-ba4b76ec2d64.png">
 
 # Django Auth Page
-**URL:** http://127.0.0.1:8000/admin/
-**ID:** saumya
-**Password:** 1234
+**URL:** http://127.0.0.1:8000/admin/  </br>
+**ID:** saumya  </br>
+**Password:** 1234   </br>
 
 Here, you can go ahead and create rooms / groups of your own choice, and start chatting, with your friends.
 
